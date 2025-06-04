@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "What's in the details?",
+	"icon": "https://micro.blog/bobbytung/avatar.jpg",
+	"home_page_url": "https://bobbytung.wanderer.tw/",
+	"feed_url": "https://bobbytung.wanderer.tw/feed.json",
+	"items": [
+		
+			{
+				"id": "http://bobbytung.micro.blog/2025/06/03/104043.html",
+				"title": "表格中的對角線",
+				"content_html": "<p>長久以來我找不到辦法繪製ＨＴＭＬ表格的對角線，還曾經想要在ＣＳＳ小組裡去提案。\n但發現現在可以透過<!-- raw HTML omitted -->linear-gradient<!-- raw HTML omitted -->語法在儲存格元素裡繪製背景圖片，如：</p>\n<!-- raw HTML omitted -->\n<p>來完成。若要改方向，把bottom right改成top right即可。還可以在裡頭置入文字來排列（但格子過小時文字會壓線）。</p>\n<p>看了一下這項<a href=\"https://caniuse.com/?search=linear-gradient\">ＣＳＳ特性在二◯一二年</a>就受到不少瀏覽器的支援，唯Safari拖到二◯\n二二年才完成。</p>\n",
+				"content_text": "長久以來我找不到辦法繪製ＨＴＭＬ表格的對角線，還曾經想要在ＣＳＳ小組裡去提案。\n但發現現在可以透過<code>linear-gradient</code>語法在儲存格元素裡繪製背景圖片，如：\n\n\n<p><pre>.dl {\n  background-image: linear-gradient(to bottom right, \n  white 49%, black, white 51%); }\n</pre></p>\n\n來完成。若要改方向，把bottom right改成top right即可。還可以在裡頭置入文字來排列（但格子過小時文字會壓線）。\n\n看了一下這項[ＣＳＳ特性在二◯一二年](https://caniuse.com/?search=linear-gradient)就受到不少瀏覽器的支援，唯Safari拖到二◯\n二二年才完成。\n\n\n\n\n",
+				"date_published": "2025-06-03T10:40:43+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/06/03/104043.html"
+			},
+			{
+				"id": "http://bobbytung.micro.blog/2025/06/02/192205.html",
+				"title": "為什麼要在這時間點開個部落格？",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "\n<p>前陣子去時報出版錄了兩集Podcast，其中有一題：「在這短影音的時代，我們還需要書嗎？」</p>\n\n<p>這幾年做書時總需要一點音樂或者聲音伴著，一開始我聽了很多大部頭的書，像是《福爾摩斯全集》，後來有一段時間可以靜下來聽音樂，但逐漸地、也蠻恐怖地、被YouTube所取代。我不大要求內容品質有多好，就需要個人聲陪伴工作不寂寞。</p>\n\n<h3>「媒介即訊息」</h3>\n\n<p>你會發現，過去Ｗｅｂ<span class=\"tcy\">2.0</span>時代的網頁媒體就已經有了抄來抄去的習慣，但人們總還有點尊嚴，會有人提出一些獨家想法或者完整的資訊。但這些YouTube上的自媒體，卻沒有尊嚴地近乎完整複製，而且不大敢提出不同的觀點與角度。</p>\n\n<p>短影音要的就是「<strong>看我！看我！不要跳開！</strong>」，YouTuber要的就是<strong>衝訂閱來換取更好的業配價碼</strong>。然後內容都在這樣的邏輯下被產製。「書」的作者與讀者之間的關係反而單純一些，當然也是在利潤越來越小，越來越無利可圖的狀況下變得如此。</p>\n\n<p>在Facebook等社交服務上寫作，其實也是看著潛在的受眾，下筆時會擔心粉絲數的上上下下，儘管沒能透過這些粉絲賺到錢，也會被養成這樣的心態。</p>\n\n<p>那麼重新開個部落格吧，不要讓自己被綁手綁腳，想寫什麼就寫什麼吧。</p>\n\n<h3>搞社群，不要搞媒體</h3>\n\n<p>朋友李如一在東京有個叫做「<a href=\"https://blog.yitianshijie.net/2025/06/01/chinese-creatives-in-japan-tokyo-university-20250615/\">東客</a>」的計劃將要啟動。</p>\n\n<p>看了一下他提出的概念，我覺得是小眾中的小眾，頓時覺得那應該是個「社群（community）」而不是「媒體（media）」。突然與前面對於各種自媒體的觀察似乎能串了起來，當我們談論媒體時，無論盈利還是為了其他主張，始終都是單方向的權力不對等關係。Web的相互連結本質上應該是human-centric的社群。</p>\n\n<p>這些事是過去都曾知道，但中間我忘了很久的事。</p>\n\n<p>可能是土星進入了牡羊座，重新喚醒了些什麼，在這時間決定重新開始。</p>\n\n<h3>脫離母體的汪洋感</h3>\n\n<p>然而社交服務，會讓你有一個處與社群中的假象（但實際上以廣告為主的盈利模式讓你不是狩獵者就是獵物）。不過一旦拖離這些服務，像是自己架了一個硬地網站／部落格，在Mastodon等去中心化社交網路上開了一個帳號，都會讓自己有一些離開母體的孤獨感。這是需要習慣並且重塑社群的。</p>\n",
+				"date_published": "2025-06-02T19:28:38+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/06/02/192205.html"
+			},
+			{
+				"id": "http://bobbytung.micro.blog/2025/06/02/indieweb-facebookneocities.html",
+				"title": "這兒不是IndieWeb上的第一個直排部落格",
+				"content_html": "<p>Facebook上有人提及在neocities上已有《<a href=\"https://vert.neocities.org\">哂蟹齋</a>》。</p>\n<p>處理古籍排版實在巔峰至極，甘拜下風。</p>\n",
+				"content_text": "Facebook上有人提及在neocities上已有《[哂蟹齋](https://vert.neocities.org)》。\n\n處理古籍排版實在巔峰至極，甘拜下風。\n",
+				"date_published": "2025-06-02T11:13:55+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/06/02/indieweb-facebookneocities.html"
+			},
+			{
+				"id": "http://bobbytung.micro.blog/2025/06/02/emoji-bamboo-steamer-emoji-emoji.html",
+				"title": "Emoji提案：小籠包",
+				"content_html": "<p>雖然看起來像是小籠包，不過我實際上提的是「<em>竹蒸籠（Bamboo steamer）</em>」，是調理器具。</p>\n<p>實際上在Emoji列表中，<strong>沒有調理器具</strong>，像菜刀、鍋子之類的，只能借用如🍳、🥘來指涉平底鍋以及煮鍋。</p>\n<p>而我實際要做的是反過來，以蒸籠來代表「包子」、「饅頭」、「小籠包」、「燒賣」等需要以蒸籠做出來的食品。蒸籠裡畫的是小籠包，如果有人哪天提了包子饅頭之類通過了，<strong>蒸籠還是可以代表小籠包</strong>。</p>\n<p>這個Emoji也可以放在很多情境下使用，在香港可能用來問你要不要去飲茶，來台灣觀光這就代表小籠包了。</p>\n",
+				"content_text": "雖然看起來像是小籠包，不過我實際上提的是「_竹蒸籠（Bamboo steamer）_」，是調理器具。\n\n實際上在Emoji列表中，**沒有調理器具**，像菜刀、鍋子之類的，只能借用如🍳、🥘來指涉平底鍋以及煮鍋。\n\n而我實際要做的是反過來，以蒸籠來代表「包子」、「饅頭」、「小籠包」、「燒賣」等需要以蒸籠做出來的食品。蒸籠裡畫的是小籠包，如果有人哪天提了包子饅頭之類通過了，**蒸籠還是可以代表小籠包**。\n\n這個Emoji也可以放在很多情境下使用，在香港可能用來問你要不要去飲茶，來台灣觀光這就代表小籠包了。\n\n",
+				"date_published": "2025-06-02T11:02:24+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/06/02/emoji-bamboo-steamer-emoji-emoji.html"
+			},
+			{
+				"id": "http://bobbytung.micro.blog/2025/05/30/130419.html",
+				"title": "中文有沒有直排的網站？",
+				"content_html": "<p>經過很長的一段時間，看來沒有人試著玩玩看。</p>\n",
+				"content_text": "經過很長的一段時間，看來沒有人試著玩玩看。\n\n",
+				"date_published": "2025-05-30T13:04:19+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/05/30/130419.html"
+			},
+			{
+				"id": "http://bobbytung.micro.blog/2025/05/30/emoji.html",
+				"title": "第一個Emoji提案",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "\n<p>其實應該好幾年前就要開始寫了，但一直<strong>希望能當作一項讓更多人參加Unicode活動的開始</strong>。結果沒有促動任何人，<em>自己也差點忘了</em>要做這樣的事。</p>\n\n<blockquote>\n<p>目前要寫的提案是小籠包</p>\n<p>找了老朋友馬克來操刀設計</p>\n<p>請Ken Lunde看過提案</p>\n</blockquote>\n\n<p>預計六月中提出去</p>\n",
+				"date_published": "2025-05-30T12:48:50+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/05/30/emoji.html"
+			}
+	]
+}
