@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bobbytung.micro.blog/2025/06/09/bill-atkinsonhypercard.html",
+				"title": "紀念Bill Atkinson——HyperCard的發明者",
+				"content_html": "<p>在這ＡＩ尚未宰制我們的年代，已經有兩個方向的想法逐漸成型：</p>\n<ul>\n<li>\n<p>資訊的邊界，以及；</p>\n</li>\n<li>\n<p>內容裡的人味兒（Human Touch）。</p>\n</li>\n</ul>\n<p>Bill Atkinson很早就以HyperCard昭示了這些事。</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "在這ＡＩ尚未宰制我們的年代，已經有兩個方向的想法逐漸成型：\r\n\r\n- 資訊的邊界，以及；\r\n\r\n- 內容裡的人味兒（Human Touch）。\r\n\r\nBill Atkinson很早就以HyperCard昭示了這些事。   \r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BeMRoYDc2z8?si=EwqrFpnfup3RcRYY&start=274\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"uploads/2025/-2025-06-09-6.59.29.png\" width=\"600\" height=\"499\" alt=\"\">\n",
+				"date_published": "2025-06-09T19:03:40+08:00",
+				"url": "https://bobbytung.wanderer.tw/2025/06/09/bill-atkinsonhypercard.html"
+			},
+			{
 				"id": "http://bobbytung.micro.blog/2025/06/03/104043.html",
 				"title": "表格中的對角線",
 				"content_html": "<p>長久以來我找不到辦法繪製ＨＴＭＬ表格的對角線，還曾經想要在ＣＳＳ小組裡去提案。\n但發現現在可以透過<!-- raw HTML omitted -->linear-gradient<!-- raw HTML omitted -->語法在儲存格元素裡繪製背景圖片，如：</p>\n<!-- raw HTML omitted -->\n<p>來完成。若要改方向，把bottom right改成top right即可。還可以在裡頭置入文字來排列（但格子過小時文字會壓線）。</p>\n<p>看了一下這項<a href=\"https://caniuse.com/?search=linear-gradient\">ＣＳＳ特性在二◯一二年</a>就受到不少瀏覽器的支援，唯Safari拖到二◯\n二二年才完成。</p>\n",
@@ -45,14 +53,6 @@
 				"content_text": "經過很長的一段時間，看來沒有人試著玩玩看。\n\n",
 				"date_published": "2025-05-30T13:04:19+08:00",
 				"url": "https://bobbytung.wanderer.tw/2025/05/30/130419.html"
-			},
-			{
-				"id": "http://bobbytung.micro.blog/2025/05/30/emoji.html",
-				"title": "第一個Emoji提案",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "\n<p>其實應該好幾年前就要開始寫了，但一直<strong>希望能當作一項讓更多人參加Unicode活動的開始</strong>。結果沒有促動任何人，<em>自己也差點忘了</em>要做這樣的事。</p>\n\n<blockquote>\n<p>目前要寫的提案是小籠包</p>\n<p>找了老朋友馬克來操刀設計</p>\n<p>請Ken Lunde看過提案</p>\n</blockquote>\n\n<p>預計六月中提出去</p>\n",
-				"date_published": "2025-05-30T12:48:50+08:00",
-				"url": "https://bobbytung.wanderer.tw/2025/05/30/emoji.html"
 			}
 	]
 }
